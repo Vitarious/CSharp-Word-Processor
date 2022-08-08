@@ -1,0 +1,18 @@
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\bin\Release\net6.0-windows\CSharp Word Processor.exe
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\bin\Release\net6.0-windows\CSharp Word Processor.deps.json
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\bin\Release\net6.0-windows\CSharp Word Processor.runtimeconfig.json
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\bin\Release\net6.0-windows\CSharp Word Processor.dll
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\bin\Release\net6.0-windows\CSharp Word Processor.pdb
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp_Word_Processor.Form1.resources
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp_Word_Processor.Properties.Resources.resources
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.AssemblyInfo.cs
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.dll
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\refint\CSharp Word Processor.dll
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.pdb
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\CSharp Word Processor.genruntimeconfig.cache
+C:\Users\thoma\OneDrive\Documents\C#\TextEditor\CSharp Word Processor\obj\Release\net6.0-windows\ref\CSharp Word Processor.dll
